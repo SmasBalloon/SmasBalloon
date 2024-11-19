@@ -41,9 +41,7 @@
   </ul>
 
   <h2>📈 Statistiques</h2>
-  <p align="center">
-    <img src="" alt="Top Langages" width="150"/>
-  </p>
+  
 
   <h2>📬 Contact</h2>
   <p>📧 Vous pouvez me contacter à : <a href="mathis.sauvage24750@gmail.com">mathis.sauvage24750@gmail.com</a></p>
