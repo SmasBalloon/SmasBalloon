@@ -47,8 +47,9 @@
 
   <h2>📬 Contact</h2>
   <p>📧 Vous pouvez me contacter à : <a href="mathis.sauvage24750@gmail.com">mathis.sauvage24750@gmail.com</a></p>
-
+  
   <h2>✨ Remerciements</h2>
   <p>Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me laisser un message si vous avez des questions ou des suggestions. 🚀</p>
+  
 </body>
 </html>
