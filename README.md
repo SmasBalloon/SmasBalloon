@@ -20,7 +20,7 @@
     <a href="https://discord.com/users/682531276078841881">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=SMASH_Balloon&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="discord logo" />
     </a>
-    <a href="https://discord.com/users/682531276078841881">
+    <a href="https://www.instagram.com/sauvage_math/">
       <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=SMASH_Balloon&color=F56040&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="intagram logo" />
     </a>
   </p>
