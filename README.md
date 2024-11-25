@@ -41,11 +41,10 @@
   </ul>
 
   <h2>📈 Statistiques</h2>
-  
+  <figure><embed src="https://wakatime.com/share/@8a1235c9-ce3f-4bf4-9393-e93adebb3ee4/5196180d-f839-421d-b529-a01ffb40b6bb.svg"></embed></figure>
 
   <h2>📬 Contact</h2>
   <p>📧 Vous pouvez me contacter à : <a href="mathis.sauvage24750@gmail.com">mathis.sauvage24750@gmail.com</a></p>
-  
   <h2>✨ Remerciements</h2>
   <p>Merci de visiter mon profil ! N'hésitez pas à explorer mes projets et à me laisser un message si vous avez des questions ou des suggestions. 🚀</p>
   
