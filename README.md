@@ -73,12 +73,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/smasballoon/smasballoon/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Thanks for watching</p>
 
 ###
