@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mathis and I'm Student, from Iut du</h2>
+<h2 align="left">Hi 👋! My name is Mathis and I'm Student, from Iut du Limousin</h2>
 
 ###
 
