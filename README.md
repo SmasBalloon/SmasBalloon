@@ -50,6 +50,8 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
 </div>
 
 ###
